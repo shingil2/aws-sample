@@ -1,9 +1,1 @@
-import json
-
-file_dict = {
-    'file_name': f'{file_name}',
-    'date_uploaded': timestamp
-}
-
-with open('metadata.json', 'w') as file:
-    json.dump(file_dict, file)
+{"file_name": "shingil.pdf", "date_uploaded": "2023-03-13-00-32-26"}
